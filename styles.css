@@ -1,0 +1,34 @@
+.zoek {
+  display: flex;
+  flex-direction: row;
+  gap: 1em;
+}
+
+li {
+  list-style-type: none;
+}
+
+header {
+  background-color: rgba(255, 0, 0, 0.511);
+  padding: 1em;
+}
+
+body {
+  background-color: rgb(255, 223, 218);
+}
+
+img {
+  width: 20em;
+  height: 13em;
+}
+
+.info {
+  width: 5em;
+  height: 5em;
+  display: flex;
+  gap: 1em;
+}
+
+.bovenpagina {
+  display: flex;
+}
